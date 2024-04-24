@@ -11,7 +11,7 @@ const Contact = () => {
 
     emailjs
       .sendForm('service_7ggqojo',
-       'template_9y7th6s', form.current, {
+       'template_9y7th6s', form.current, { 
         publicKey: '02B5ZnMFcesoGrAph',
       })
      e.target.reset()
