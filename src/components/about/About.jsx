@@ -12,7 +12,7 @@ const About = () => {
             <img src={AboutImg} alt="" className="about__img" />
             <div className="about__data">
                 <Info />
-                <p className="about__description">
+                <p className="about__description"> 
                 Full-time frontend enthusiast, part-time stand-up coder! With ReactJS as my companion, I navigate the wild world of web development with flair. I believe that good code is like a good joke - it should be clean, efficient, and make you smile. When I'm not active, you'll likely find me engaged in an epic battle with semicolons and bow like looking brackets.
                 </p>
 

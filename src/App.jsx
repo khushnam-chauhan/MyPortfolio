@@ -11,7 +11,7 @@ import Footer from './components/footer/Footer'
 import ScrollUp from './components/scroll/ScrollUp'
 import Work from './components/work/Work'
 function App() {
-  return (
+  return ( 
     <>
       <Header />
       <div className="main">
