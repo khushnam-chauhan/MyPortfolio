@@ -12,6 +12,8 @@ export const projectsData=[
         
         
     // },
+
+    
     {
         id:2,
         image:Work2,
