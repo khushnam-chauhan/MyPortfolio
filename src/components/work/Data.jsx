@@ -13,8 +13,9 @@ export const projectsData=[
         
     // },
 
-    
+
     {
+        
         id:2,
         image:Work2,
         title:"Vastra - a clothing Ecom",
